@@ -6,5 +6,21 @@
     <string name="textdescriptif">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur debitis eaque iusto libero minus natus provident reprehenderit unde! Amet
         .</string>
 
-    <string name="formation">Formation</string>
+    <string name="formation">Formations</string>
+    <string name="competence">Competences</string>
+    <string name="html">HTML</string>
+    <string name="p">70%</string>
+    <string name="css">CSS</string>
+    <string name="c">80%</string>
+    <string name="php">PHP</string>
+    <string name="ph">50%</string>
+    <string name="java">JAVA</string>
+    <string name="j">30%</string>
+    <string name="javas">JS</string>
+    <string name="js">10%</string>
+    <string name="boot">Bootstap</string>
+    <string name="bs">40%</string>
+    <string name="fig">FIGMA</string>
+    <string name="f">45%</string>
+
 </resources>
