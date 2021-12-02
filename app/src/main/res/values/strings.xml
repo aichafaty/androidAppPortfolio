@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="presentation">Hi,
+    I m Aicha Faty Ba</string>
+    <string name="about">About Me</string>
+    <string name="textdescriptif">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur debitis eaque iusto libero minus natus provident reprehenderit unde! Amet
+        .</string>
+
+    <string name="formation">Formation</string>
+</resources>
