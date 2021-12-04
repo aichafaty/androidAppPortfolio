@@ -41,4 +41,10 @@
     <string name="simplon">https://simplonline.co/</string>
     <string name="git">https://github.com/aichafaty/gestionRV</string>
 
+
+    <string name="devweb">Developpew Web</string>
+    <string name="ref">Reference Digital</string>
+    <string name="mobil">Developpeur Mobile</string>
+    <string name="services">Mes Services</string>
+
 </resources>
