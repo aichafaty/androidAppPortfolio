@@ -34,4 +34,11 @@
     <string name="cool">Cool</string>
     <string name="rigoureuse">Rigoureuse</string>
 
+
+    <string name="reference">References</string>
+    <string name="defar">https://www.linkedin.com/company/defar-sci</string>
+    <string name="abass">https://abassndao.business.site/?utm_source=gmbutm_medium=referral</string>
+    <string name="simplon">https://simplonline.co/</string>
+    <string name="git">https://github.com/aichafaty/gestionRV</string>
+
 </resources>
