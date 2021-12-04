@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.qualite_main);
         setContentView(R.layout.reference_main);
         setContentView(R.layout.services_main);
+        setContentView(R.layout.centreinteret_main);
     }
 }

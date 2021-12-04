@@ -47,4 +47,12 @@
     <string name="mobil">Developpeur Mobile</string>
     <string name="services">Mes Services</string>
 
+
+    <string name="centre">Centre Interet</string>
+
+    <string name="basket">Le Basketball</string>
+    <string name="lecture">La Lecture</string>
+    <string name="plage">La Plage</string>
+    <string name="dooc">La Documentaire</string>
+
 </resources>
