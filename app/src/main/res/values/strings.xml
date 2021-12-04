@@ -23,4 +23,15 @@
     <string name="fig">FIGMA</string>
     <string name="f">45%</string>
 
+    <string name="qualite">Qualites Personnelles</string>
+
+    <string name="curieuse">Curieuse</string>
+    <string name="esprit">Esprit dEcoute</string>
+    <string name="courage">Courageuse</string>
+    <string name="ouverte">Ouverte</string>
+    <string name="creative">Creative</string>
+    <string name="travailleuse">Travailleuse</string>
+    <string name="cool">Cool</string>
+    <string name="rigoureuse">Rigoureuse</string>
+
 </resources>
